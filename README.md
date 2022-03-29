@@ -2,7 +2,7 @@
 - 👀 I’m interested in web designing
 - 🌱 I’m currently learning react/bootstrap/figma
 - 💞️ I’m looking to collaborate on figma
-- 📫 How to reach me malakaradit@gmail.com
+- 📫 How to reach me malakaradit000@gmail.com
 
 <!---
 AditMalakar/AditMalakar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
