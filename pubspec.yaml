@@ -1,0 +1,79 @@
+name: vidflix
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.17.5 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  flutter_svg: ^1.0.3
+  auto_size_text: 3.0.0
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+  flutter_lints: ^2.0.0
+flutter: 
+  uses-material-design: true
+  assets: 
+    - packages/vidflix/assets/images/vector.svg
+    - packages/vidflix/assets/images/topanimemovies211.png
+    - packages/vidflix/assets/images/matrix1.png
+    - packages/vidflix/assets/images/mortalkombatposter1.png
+    - packages/vidflix/assets/images/alltheboys1.png
+    - packages/vidflix/assets/images/asilentvoicefilmposter1.png
+    - packages/vidflix/assets/images/imgmugentrainarc1.png
+    - packages/vidflix/assets/images/arrowleft.svg
+    - packages/vidflix/assets/images/search.svg
+    - packages/vidflix/assets/images/bxbxwifi2.svg
+    - packages/vidflix/assets/images/antdesignsignalfilled.svg
+    - packages/vidflix/assets/images/batterythreequarters.svg
+    - packages/vidflix/assets/images/frame2.svg
+    - packages/vidflix/assets/images/ellipse1.png
+    - packages/vidflix/assets/images/line1.svg
+    - packages/vidflix/assets/images/line2.svg
+    - packages/vidflix/assets/images/line3.svg
+    - packages/vidflix/assets/images/line4.svg
+    - packages/vidflix/assets/images/rectangle14.png
+    - packages/vidflix/assets/images/playcircle.svg
+    - packages/vidflix/assets/images/thumbsup.svg
+    - packages/vidflix/assets/images/share2.svg
+    - packages/vidflix/assets/images/download.svg
+    - packages/vidflix/assets/images/plus.svg
+    - packages/vidflix/assets/images/unsplashifgrcqhznqg.png
+    - packages/vidflix/assets/images/unsplash6w4f62snyi.png
+    - packages/vidflix/assets/images/pic2.png
+    - packages/vidflix/assets/images/group.svg
+    - packages/vidflix/assets/images/movieplay.png
+    - packages/vidflix/assets/images/topanimemovies212.png
+    - packages/vidflix/assets/images/topanimemovies213.png
+    - packages/vidflix/assets/images/topanimemovies214.png
+    - packages/vidflix/assets/images/bell.svg
+    - packages/vidflix/assets/images/ellipse2.png
+    - packages/vidflix/assets/images/unsplashd1upkifd04a.png
+    - packages/vidflix/assets/images/unsplash3tll97hnjo.png
+    - packages/vidflix/assets/images/pic1.png
+    - packages/vidflix/assets/images/rectangle15.png
+    - packages/vidflix/assets/images/overflow.svg
+    - packages/vidflix/assets/images/menu.svg
+    - packages/vidflix/assets/images/topanimemovies21.png
+    - packages/vidflix/assets/images/61968452.png
+    - packages/vidflix/assets/images/yournamebestjapaneseanimemovies.png
+    - packages/vidflix/assets/images/512rqlazwel.png
+    - packages/vidflix/assets/images/isnide.svg
+    - packages/vidflix/assets/images/outline.svg
+    - packages/vidflix/assets/images/wifi.svg
+    - packages/vidflix/assets/images/f38f688566fd081a3ee2fee75ef89ad01.png
+    - packages/vidflix/assets/images/battery.svg
+    - packages/vidflix/assets/images/logosfacebook.svg
+    - packages/vidflix/assets/images/image1.png
+    - packages/vidflix/assets/images/flatcoloriconsgoogle.svg
+    - packages/vidflix/assets/images/unsplashjmurdhtm7ng.png
+    - packages/vidflix/assets/images/unsplashmjrwhvqec0u.png
+    - packages/vidflix/assets/images/unsplashb4tjxni0y2c.png
+    - packages/vidflix/assets/images/unsplashc8ta0gwpbqg.png
+    - packages/vidflix/assets/images/group22.svg
+    - packages/vidflix/assets/images/image2.png
+    - packages/vidflix/assets/images/image3.png
+    - packages/vidflix/assets/images/image4.png
